@@ -1,0 +1,50 @@
+/*This is a css style sheet for 9/2 homework */
+
+.container{
+    width:1024px;  /*comment*/
+    padding:20px;
+    margin:0 auto;
+}
+
+body{
+    background-color:#efeee7;
+    font-family:"Georgia","Times New Roman",Times,serif;
+    color:#333333;
+    padding: 0;
+    margin:0; 
+}
+
+header{
+    background-color:#333333;
+}
+
+h1{
+    color:#eee;
+    font-size:28px;
+    padding:10px;
+    margin-left:40%;
+}
+h2{
+    font-size:24px;
+    
+}
+#main-bio{
+    float:left;
+    width:70%
+}
+
+#contact-info{
+    float:left;
+    width:30%;
+    line-height:150%;
+}
+a {
+    color:#d21034;
+ 
+}
+#bio-image{
+    float:left;
+    width:200px;
+    margin-right:20px;
+
+}
